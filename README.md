@@ -1,6 +1,6 @@
 # Hi, I'm Rebecca!
 - 📚 Aspiring Computer Scientist <br>
-- 🌱 Second year student in the Honours BSc Computer Science program at the University of Ottawa.<br>
+- 🌱 Second year student working towards an Honours BSc in Computer Science at the University of Ottawa.<br>
 
 
 # 💻 Tech Stack
