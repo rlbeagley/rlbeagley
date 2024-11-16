@@ -8,7 +8,9 @@
 
 <br/>
 
-![Rebecca's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlbeagley&show_icons=true&theme=rad
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlbeagley)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rlbeagley&icon=0&color=10)](https://visitcount.itsvg.in)
