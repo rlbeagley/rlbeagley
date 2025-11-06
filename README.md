@@ -1,6 +1,6 @@
 # Hi, I'm Rebecca!
 - 📚 Aspiring Computer Scientist <br>
-- 🌱 Second year student working towards an Honours BSc in Computer Science at the University of Ottawa.<br>
+- 🌱 Third year student working towards an Honours BSc in Computer Science at the University of Ottawa.<br>
 - :wrench: uOttawa Bionics Team Software Developer
 
 
