@@ -1,6 +1,7 @@
 # Hi, I'm Rebecca!
 - 🌱 Third year student working towards an Honours BSc in Computer Science at the University of Ottawa.<br>
-- :wrench: uOttawa Bionics Team Software Developer
+- :wrench: Former uOttawa Bionics Team Software Developer
+- ⚙️ Software Developer Student @ Crypto4A, a post-quantum cybersecurity company (January 2026-May 2026) 
 
 
 
